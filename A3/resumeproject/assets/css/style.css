@@ -1,0 +1,74 @@
+body{
+	background-color: cornflowerblue;
+}
+
+h1{
+font-family: 'Notable', sans-serif;
+margin-bottom: 10px;
+}
+
+p{
+	margin-bottom: 15px;
+	font-family: 'Dosis', sans-serif;
+}
+
+h2{
+	font-size: 40px;
+	text-align: center;
+	text-shadow: 2px 2px; /*the css element that we haven't used in class*/
+}
+
+a{
+	color: black;
+	font-size: 15px;
+    text-decoration: none;
+}
+
+a:hover{
+	font-family: 'Liu Jian Mao Cao', cursive;
+	color: yellow;
+	   border-style: solid;
+    border-width: 5px;
+    border-color: green
+}
+
+#center {
+		text-align: center;
+}
+
+.centerimg {
+		display:block;
+		margin: auto;
+		width: 40%;
+}
+
+table, th, td {
+	border: 1px solid black;
+}
+
+.interests{
+	background-color: salmon;
+	width: 100px;
+}
+
+.links {
+	background-color: yellow;
+	width: 100px;
+}
+
+b {
+	font-size: 24px;
+}
+
+h3 {
+	font-size: 24px;
+}
+.address{
+	background-color:violet;
+	width: 120px;
+	font-size: 24px;
+}
+
+#color{
+	color:purple;
+}
